@@ -1,4 +1,4 @@
-<h1> Netflix Clone </h1>
+<h1> Netflix landing page clone </h1>
 
 <b>Tools used to create this project:</b>
 <br />
